@@ -1,5 +1,5 @@
 ---
-name: xiaohongshu-traffic-copywriter
+name: xhs
 description: Use when creating Xiaohongshu posts, rewriting notes for more clicks or saves, designing first images, planning hashtag and keyword coverage, or improving content that needs stronger natural traffic and conversion.
 ---
 
